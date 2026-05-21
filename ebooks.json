@@ -56,7 +56,13 @@
  {
     "name": "network_lab1",
     "file": "/ebooks/network_lab1.pdf"
+ },
+ {
+    "name": "web_win",
+    "file": "/ebooks/web_win.pdf"
  }
+
+
 
 
 
